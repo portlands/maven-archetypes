@@ -3,9 +3,15 @@
   <archetypes>
     <archetype>
       	<groupId>com.github.portlands</groupId>
-	<artifactId>microprofile12-ee7-cors-archetype</artifactId>
-	<version>1.0.1</version>
+	      <artifactId>microprofile12-ee7-cors-archetype</artifactId>
+	      <version>1.0.1</version>
       	<description>MicroProfile 1.2 archetype with EE7 and CORS Filter</description>
+    </archetype>
+    <archetype>
+      <groupId>com.github.portlands</groupId>
+  	  <artifactId>html5-simple</artifactId>
+  	  <version>1.0.1</version>
+      <description>HTMl5 App with no frameworks plus normalize.css</description>
     </archetype>
   </archetypes>
 </archetype-catalog>

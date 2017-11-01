@@ -1,0 +1,7 @@
+# gitinore
+
+# misc
+.DS_Store
+
+# maven
+/target
