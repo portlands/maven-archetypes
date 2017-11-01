@@ -1,6 +1,6 @@
 #!/bin/sh
 yarn install
-cp node_modules/normalize.css src/normalize.css
+cp node_modules/normalize.css/normalize.css src/normalize.css
 
 docker build -t ${groupId}/${artifactId} .
 docker rm -f ${artifactId} || true
