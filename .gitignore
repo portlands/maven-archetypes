@@ -2,4 +2,8 @@
 
 # misc
 .DS_Store
+target/
+bin/
 
+.settings
+.project
